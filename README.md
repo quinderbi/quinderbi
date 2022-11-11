@@ -21,4 +21,3 @@ Here are some ideas to get you started:
 -->
 ### Badges
 <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width=100>
-<div data-iframe-width="100" data-iframe-height="180" data-share-badge-id="f0a78ecd-b37a-4ea2-89e3-051f46c3a560" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
