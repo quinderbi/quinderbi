@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Badges
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width=100>
-<img src="https://images.credly.com/size/340x340/images/b2db4424-989e-4df9-ad19-1539d2743d74/image.png" width=100>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width=100><img src="https://images.credly.com/size/340x340/images/b2db4424-989e-4df9-ad19-1539d2743d74/image.png" width=100>
+
