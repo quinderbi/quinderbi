@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Badges
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width=100><img src="https://images.credly.com/size/340x340/images/b2db4424-989e-4df9-ad19-1539d2743d74/image.png" width=100><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rX-dH2o3--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/206/ht-badge.png" width=100>
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rX-dH2o3--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/206/ht-badge.png" width=100><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width=100><img src="https://images.credly.com/size/340x340/images/b2db4424-989e-4df9-ad19-1539d2743d74/image.png" width=100>
 
