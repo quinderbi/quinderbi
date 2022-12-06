@@ -2,9 +2,9 @@
 - 😄 Pronouns: `he/him/his`
 - ⚡ Data science | Telkom University
 - 🌱 programming language focus : Python and Go
-
-- Email : quinderbi@gmail.com | quinderbi@outlook.com
-- instagram : @quinderbi_
+- 📧 Email : quinderbi@gmail.com | quinderbi@outlook.com
+- 📷 Instagram : @quinderbi_
+- 💼 LinkedIn : <a href="https://www.linkedin.com/in/quin-derbi-kusuma-860a52221">
 <!--
 **quinderbi/quinderbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
